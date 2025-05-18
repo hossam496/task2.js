@@ -506,6 +506,7 @@ input:focus {
             transition: background-color 0.2s ease;
             display: flex;
             align-items: center;
+            justify-content: center;
             gap: 0.5rem;
         }
 
